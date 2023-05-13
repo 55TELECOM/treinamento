@@ -1,0 +1,65 @@
+2023-05-13 17:33:32.923418 : --- Logging error ---
+                             
+2023-05-13 17:33:32.924223 : Traceback (most recent call last):
+                             
+2023-05-13 17:33:32.924249 : 
+2023-05-13 17:33:32.924283 :   File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+                                 msg = self.format(record)
+                             
+2023-05-13 17:33:32.924289 : 
+2023-05-13 17:33:32.924295 :   File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+                                 return fmt.format(record)
+                             
+2023-05-13 17:33:32.924300 : 
+2023-05-13 17:33:32.924305 :   File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+                                 record.message = record.getMessage()
+                             
+2023-05-13 17:33:32.924310 : 
+2023-05-13 17:33:32.924315 :   File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+                                 msg = msg % self.args
+                             
+2023-05-13 17:33:32.924320 : 
+2023-05-13 17:33:32.924335 : TypeError: not all arguments converted during string formatting
+                             
+2023-05-13 17:33:32.924340 : 
+2023-05-13 17:33:32.924350 : Call stack:
+                             
+2023-05-13 17:33:32.930197 :   File "/home/daviandrade/WebstormProjects/automacao_trainneeeee/app/tests/realtime/main.py", line 12, in <module>
+                                 runner.run(suite)
+                             
+2023-05-13 17:33:32.930218 : 
+2023-05-13 17:33:32.930224 :   File "/home/daviandrade/WebstormProjects/automacao_trainneeeee/env/lib/python3.10/site-packages/HTMLTestRunner/runner.py", line 346, in run
+                                 test(result)
+                             
+2023-05-13 17:33:32.930230 : 
+2023-05-13 17:33:32.930235 :   File "/usr/lib/python3.10/unittest/suite.py", line 84, in __call__
+                                 return self.run(*args, **kwds)
+                             
+2023-05-13 17:33:32.930240 : 
+2023-05-13 17:33:32.930244 :   File "/usr/lib/python3.10/unittest/suite.py", line 122, in run
+                                 test(result)
+                             
+2023-05-13 17:33:32.930249 : 
+2023-05-13 17:33:32.930253 :   File "/usr/lib/python3.10/unittest/case.py", line 650, in __call__
+                                 return self.run(*args, **kwds)
+                             
+2023-05-13 17:33:32.930258 : 
+2023-05-13 17:33:32.930263 :   File "/usr/lib/python3.10/unittest/case.py", line 591, in run
+                                 self._callTestMethod(testMethod)
+                             
+2023-05-13 17:33:32.930268 : 
+2023-05-13 17:33:32.930272 :   File "/usr/lib/python3.10/unittest/case.py", line 549, in _callTestMethod
+                                 method()
+                             
+2023-05-13 17:33:32.930280 : 
+2023-05-13 17:33:32.930285 :   File "/home/daviandrade/WebstormProjects/automacao_trainneeeee/env/lib/python3.10/site-packages/ddt.py", line 220, in wrapper
+                                 return func(self, *args, **kwargs)
+                             
+2023-05-13 17:33:32.930289 : 
+2023-05-13 17:33:32.930294 :   File "/home/daviandrade/WebstormProjects/automacao_trainneeeee/app/tests/realtime/panel_detail.py", line 15, in test_get_operator_available
+                                 self.logger.info(f'Iniciando o teste: test_get_operator_available com o valores', value['email'], value['password'], value['client_name'])
+                             
+2023-05-13 17:33:32.930299 : 
+2023-05-13 17:33:32.930317 : Message: 'Iniciando o teste: test_get_operator_available com o valores'
+                             Arguments: ('davi.andrade@55pbx.com.br', 'qwpozxmn1029', '55PBX - BETA - DEPLOY 09_02')
+                             

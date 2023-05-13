@@ -1,0 +1,12 @@
+2023-05-13 18:47:58.258971 : INFO - Iniciando o teste: test_get_operator_available com o valores: davi.andrade@55pbx.com.br, qwpozxmn1029, 55PBX - BETA - DEPLOY 09_02
+                             
+2023-05-13 18:48:10.450014 : ERROR - REALTIME | TimeoutException - /html/body/div[1]/ion-sside-menus/ion-side-menu-content/ion-nav-view/ion-view/ion-content/div[1]/div/div[2]/div/div[2]/div[2]/div[2]/span/span | Page: PageWallboardDetalhado - Method: get_value_disponivel
+                             
+2023-05-13 18:48:15.515530 : INFO - Iniciando o teste: test_get_operator_available com o valores: davi.andrade@55pbx.com.br qwpozxmn1029 55PBX - BETA - DEPLOY 09_02
+                             
+2023-05-13 18:48:15.515567 : INFO - Iniciando o teste: test_get_operator_available com o valores: davi.andrade@55pbx.com.br qwpozxmn1029 55PBX - BETA - DEPLOY 09_02
+                             
+2023-05-13 18:48:29.940465 : ERROR - REALTIME | TimeoutException - /html/body/div[1]/ion-sside-menus/ion-side-menu-content/ion-nav-view/ion-view/ion-content/div[1]/div/div[2]/div/div[2]/div[2]/div[2]/span/span | Page: PageWallboardDetalhado - Method: get_value_disponivel
+                             
+2023-05-13 18:48:29.940500 : ERROR - REALTIME | TimeoutException - /html/body/div[1]/ion-sside-menus/ion-side-menu-content/ion-nav-view/ion-view/ion-content/div[1]/div/div[2]/div/div[2]/div[2]/div[2]/span/span | Page: PageWallboardDetalhado - Method: get_value_disponivel
+                             

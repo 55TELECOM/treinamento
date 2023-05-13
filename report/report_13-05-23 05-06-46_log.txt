@@ -1,0 +1,2 @@
+2023-05-13 17:06:59.010363 : Não foi encontrado o ('xpath', '//*[@id="form_email"]/asd')
+2023-05-13 17:07:27.161250 : Não foi encontrado o ('xpath', '//*[@id="form_email"]/asd')

@@ -1,0 +1,4 @@
+2023-05-13 17:39:17.776925 : INFO - Iniciando o teste: test_get_operator_available com o valores: davi.andrade@55pbx.com.br qwpozxmn1029 55PBX - BETA - DEPLOY 09_02
+                             
+2023-05-13 17:39:30.203025 : ERROR - (('xpath', '/html/body/div[1]/ion-sside-menus/ion-side-menu-content/ion-nav-view/ion-view/ion-content/div[1]/div/div[2]/div/div[2]/div[2]/div[2]/span/span'), 'TimeoutException', 'REALTIME', 'get_value_disponivel')
+                             

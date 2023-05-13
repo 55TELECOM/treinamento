@@ -1,0 +1,6 @@
+2023-05-13 18:49:23.657289 : INFO - Iniciando o teste: test_get_operator_available com o valores: davi.andrade@55pbx.com.br, qwpozxmn1029, 55PBX - BETA - DEPLOY 09_02
+                             
+2023-05-13 18:49:32.040771 : INFO - Iniciando o teste: test_get_operator_available com o valores: davi.andrade@55pbx.com.br qwpozxmn1029 55PBX - BETA - DEPLOY 09_02
+                             
+2023-05-13 18:49:32.040804 : INFO - Iniciando o teste: test_get_operator_available com o valores: davi.andrade@55pbx.com.br qwpozxmn1029 55PBX - BETA - DEPLOY 09_02
+                             
